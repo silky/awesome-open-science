@@ -48,6 +48,7 @@ project management
 ------------------
 
 -   [GitHub](https://github.com): (Naturally.)
+-   [Trello](https://trello.com/): Keep track of to-do items in various lists of lists; keep track of figures, comments, questions, issues, etc.
 -   [Open science framework](http://osf.io/): Collect together various
     sources (GitHub, DropBox, etc) into one spot.
 
@@ -78,3 +79,8 @@ community wikis
     on Mathematics, Physics and Philosophy — especially from the n-point
     of view: insofar as these subjects are usefully treated with tools
     and notions of category theory or higher category theory.
+
+books
+-----
+
+-   [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/): an intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view. Uses python with pyMC for visualizing what's going on.
