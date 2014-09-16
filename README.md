@@ -18,6 +18,12 @@ document writing
   - [ShareLaTeX](https://www.sharelatex.com/) - Online collaborative LaTeX editor
 
 
+discovery
+--
+
+  - [Paperscape](http://paperscape.org/)
+  
+
 data management
 --
 
