@@ -63,4 +63,4 @@ community wikis
 --
 
   - [nLab](http://ncatlab.org/nlab/) - A wiki-lab for collaborative work on Mathematics, Physics and Philosophy — especially from the n-point of view: insofar as these subjects are usefully treated with tools and notions of category theory or higher category theory.
-  - [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo) - 
+  - [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo) - Definitions of complexity classes in theoreticaly computer science.
