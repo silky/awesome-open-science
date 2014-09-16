@@ -51,3 +51,9 @@ journals/preprint servers
 
   - [arXiv](http://arxiv.org) - e-Print archive
   - [SciRate](https://scirate.com/) - Front for the [arXiv](http://arxiv.org/), with voting and comments and accounts.
+
+
+training/meetups
+--
+
+  - [software carpentry](http://software-carpentry.org/)
