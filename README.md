@@ -35,5 +35,13 @@ project management
 
 organisations
 --
+
   - [Center for Open Science](http://cos.io/)
   - [rOpenScience](http://ropensci.org/)
+
+
+journals/preprint servers
+--
+
+  - [arXiv](http://arxiv.org) - e-Print archive
+  - [SciRate](https://scirate.com/) - Front for the [arXiv](http://arxiv.org/), with voting and comments and accounts.
