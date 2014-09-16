@@ -1,0 +1,3 @@
+#!/bin/sh
+# I don't know how not require a temp file for this.
+cat README.md | ./sortLists.hs > /tmp/meh && cat /tmp/meh > README.md
