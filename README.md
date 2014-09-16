@@ -7,7 +7,7 @@ some links to projects/tools related to "open science". add to this by forking a
 computation environments
 --
 
-  - [Sage Math Cloud](http://cloud.sagemath.com/)
+  - [Sage Math Cloud](http://cloud.sagemath.com/) - Provides Sage, Python, and other environments for computing on the cloud; also provides terminal access and git commands for cloning repositories.
   
 
 document writing
