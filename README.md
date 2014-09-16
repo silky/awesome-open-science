@@ -4,6 +4,12 @@ awesome-open-science
 some links to projects/tools related to "open science". add to this by forking and pull-requesting.
 
 
+computation environments
+--
+
+  - [Sage Math Cloud](http://cloud.sagemath.com/)
+  
+
 document writing
 --
 
