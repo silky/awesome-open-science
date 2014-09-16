@@ -21,6 +21,12 @@ document writing
 -   [WriteLaTeX](https://www.writelatex.com/): Online collaborative
     LaTeX editor
 
+discovery
+--
+
+  - [Paperscape](http://paperscape.org/)
+  
+
 data management
 ---------------
 
