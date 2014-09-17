@@ -4,6 +4,8 @@ awesome-open-science
 some links to projects/tools related to "open science". add to this by
 forking and pull-requesting.
 
+in a similar vein to [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+
 computation environments
 ------------------------
 
