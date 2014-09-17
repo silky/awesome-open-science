@@ -4,7 +4,8 @@ awesome-open-science
 some links to projects/tools related to "open science". add to this by
 forking and pull-requesting.
 
-in a similar vein to [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+in a similar vein to
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 computation environments
 ------------------------
@@ -24,10 +25,9 @@ document writing
     LaTeX editor
 
 discovery
---
+---------
 
-  - [Paperscape](http://paperscape.org/)
-  
+-   [Paperscape](http://paperscape.org/)
 
 data management
 ---------------
@@ -50,9 +50,11 @@ project management
 ------------------
 
 -   [GitHub](https://github.com): (Naturally.)
--   [Trello](https://trello.com/): Keep track of to-do items in various lists of lists; keep track of figures, comments, questions, issues, etc.
 -   [Open science framework](http://osf.io/): Collect together various
     sources (GitHub, DropBox, etc) into one spot.
+-   [Trello](https://trello.com/): Keep track of to-do items in various
+    lists of lists; keep track of figures, comments, questions, issues,
+    etc.
 
 organisations
 -------------
@@ -85,4 +87,8 @@ community wikis
 books
 -----
 
--   [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/): an intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view. Uses python with pyMC for visualizing what's going on.
+-   [Probabilistic Programming and Bayesian Methods for
+    Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/):
+    an intro to Bayesian methods and probabilistic programming from a
+    computation/understanding-first, mathematics-second point of view.
+    Uses python with pyMC for visualizing what's going on.
