@@ -1,5 +1,2 @@
 #!/bin/sh
-# I don't know how not require a temp file for this. There's this: 
-#    http://stackoverflow.com/questions/3897451/using-the-same-file-for-stdin-and-stdout-with-redirection
-# but all the options are bad.
-cat README.md | ./sortLists.hs > /tmp/meh && cat /tmp/meh > README.md
+cat README.md | ./sortLists.hs | sponge README.md
