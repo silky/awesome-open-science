@@ -18,6 +18,12 @@ computation environments
     Python, and other environments for computing on the cloud; also
     provides terminal access and git commands for cloning repositories.
 
+peer-review
+-----------
+
+-   [Hypothes.is](https://hypothes.is/): Steps towards annotating and
+    peer-reviewing the Web.
+
 document writing
 ----------------
 
