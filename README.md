@@ -60,6 +60,7 @@ organisations
 -------------
 
 -   [Center for Open Science](http://cos.io/)
+-   [Mozilla Science Lab](https://www.mozillascience.org/)
 -   [rOpenScience](http://ropensci.org/)
 
 journals/preprint servers
@@ -81,6 +82,7 @@ community wikis
 
 -   [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo):
     Definitions of complexity classes in theoreticaly computer science.
+-   [Mozilla Science Lab Forum](https://forum.mozillascience.org/)
 -   [nLab](http://ncatlab.org/nlab/): A wiki-lab for collaborative work
     on Mathematics, Physics and Philosophy — especially from the n-point
     of view: insofar as these subjects are usefully treated with tools
