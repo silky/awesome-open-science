@@ -10,9 +10,19 @@ in a similar vein to
 computation environments
 ------------------------
 
+-   [IPython Notebook](http://ipython.org/notebook.html) (evolving into
+    [Jupyter](https://jupyter.org/)): A browser-based notebook with
+    support for code, rich text, mathematical expressions, inline plots
+    and other rich media.
 -   [Sage Math Cloud](http://cloud.sagemath.com/): Provides Sage,
     Python, and other environments for computing on the cloud; also
     provides terminal access and git commands for cloning repositories.
+
+peer-review
+-----------
+
+-   [Hypothes.is](https://hypothes.is/): Steps towards annotating and
+    peer-reviewing the Web.
 
 document writing
 ----------------
@@ -32,6 +42,8 @@ discovery
 data management
 ---------------
 
+-   [Academic Torrents](http://academictorrents.com/): Publish large
+    datasets as torrents.
 -   [Dat-Data](http://dat-data.com/): Dat is an open source project that
     provides a streaming interface between every file format and data
     storage backend.
@@ -39,6 +51,9 @@ data management
 reproducibility
 ---------------
 
+-   [Code as a Research
+    Object](https://www.mozillascience.org/projects/codemeta): Assign a
+    DOI to your code and make it citable.
 -   [Figshare](http://figshare.com/): Platform for making research
     artefacts uploadable and citable.
 -   [Reproduced papers](http://reproduced-papers.github.io/): Collection
@@ -52,14 +67,16 @@ project management
 -   [GitHub](https://github.com): (Naturally.)
 -   [Open science framework](http://osf.io/): Collect together various
     sources (GitHub, DropBox, etc) into one spot.
--   [Trello](https://trello.com/): Keep track of to-do items in various
-    lists of lists; keep track of figures, comments, questions, issues,
-    etc.
+-   [Trello](https://trello.com/) and
+    [Libreboard](http://libreboard.com/) (open source self-hosted
+    alternative): Keep track of to-do items in various lists of lists;
+    keep track of figures, comments, questions, issues, etc.
 
 organisations
 -------------
 
 -   [Center for Open Science](http://cos.io/)
+-   [Mozilla Science Lab](https://www.mozillascience.org/)
 -   [rOpenScience](http://ropensci.org/)
 
 journals/preprint servers
@@ -81,6 +98,7 @@ community wikis
 
 -   [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo):
     Definitions of complexity classes in theoreticaly computer science.
+-   [Mozilla Science Lab Forum](https://forum.mozillascience.org/)
 -   [nLab](http://ncatlab.org/nlab/): A wiki-lab for collaborative work
     on Mathematics, Physics and Philosophy — especially from the n-point
     of view: insofar as these subjects are usefully treated with tools
