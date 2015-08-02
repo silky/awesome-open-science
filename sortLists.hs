@@ -1,4 +1,4 @@
-#!/usr/local/bin/runhaskell
+#!/usr/bin/env runhaskell
 
 import Text.Pandoc
 import Text.Pandoc.Walk (walk)
