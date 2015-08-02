@@ -32,6 +32,8 @@ discovery
 data management
 ---------------
 
+-   [Academic Torrents](http://academictorrents.com/): Publish large
+    datasets as torrents.
 -   [Dat-Data](http://dat-data.com/): Dat is an open source project that
     provides a streaming interface between every file format and data
     storage backend.
