@@ -39,6 +39,9 @@ data management
 reproducibility
 ---------------
 
+-   [Code as a Research
+    Object](https://www.mozillascience.org/projects/codemeta): Assign a
+    DOI to your code and make it citable
 -   [Figshare](http://figshare.com/): Platform for making research
     artefacts uploadable and citable.
 -   [Reproduced papers](http://reproduced-papers.github.io/): Collection
