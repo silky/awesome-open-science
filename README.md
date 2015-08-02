@@ -10,6 +10,10 @@ in a similar vein to
 computation environments
 ------------------------
 
+-   [IPython Notebook](http://ipython.org/notebook.html) (evolving into
+    [Jupyter](https://jupyter.org/)): A browser-based notebook with
+    support for code, rich text, mathematical expressions, inline plots
+    and other rich media.
 -   [Sage Math Cloud](http://cloud.sagemath.com/): Provides Sage,
     Python, and other environments for computing on the cloud; also
     provides terminal access and git commands for cloning repositories.
