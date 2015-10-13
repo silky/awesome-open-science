@@ -9,7 +9,9 @@ sortBulletList (BulletList xs) = BulletList (sort xs)
 sortBulletList x = x
 
 readDoc :: String -> Pandoc
-readDoc = readMarkdown def
+readDoc s = case (readMarkdown def s) of
+               Left  e -> error $ "Error: " ++ show (e)
+               Right p -> p
 
 writeDoc :: Pandoc -> String
 writeDoc = writeMarkdown def
