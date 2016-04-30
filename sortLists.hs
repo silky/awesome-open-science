@@ -1,4 +1,5 @@
-#!/usr/bin/env runhaskell
+#!/usr/bin/env stack
+-- stack --resolver lts-5 --install-ghc runghc --package pandoc
 
 import Text.Pandoc
 import Text.Pandoc.Walk (walk)
