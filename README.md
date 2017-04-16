@@ -18,7 +18,7 @@ computation environments
     Python, and other environments for computing on the cloud; also
     provides terminal access and git commands for cloning
     repositories.
-	[Maxima](http://maxima.sourceforge.net): A computer algebra system
+-	[Maxima](http://maxima.sourceforge.net): A computer algebra system
 	developed in Lisp for (symbolic) mathematical computations.
 
 peer-review
