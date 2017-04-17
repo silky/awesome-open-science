@@ -16,10 +16,9 @@ computation environments
     and other rich media.
 -   [Sage Math Cloud](http://cloud.sagemath.com/): Provides Sage,
     Python, and other environments for computing on the cloud; also
-    provides terminal access and git commands for cloning
-    repositories.
--	[Maxima](http://maxima.sourceforge.net): A computer algebra system
-	developed in Lisp for (symbolic) mathematical computations.
+    provides terminal access and git commands for cloning repositories.
+-   [Maxima](http://maxima.sourceforge.net): A computer algebra system
+    developed in Lisp for (symbolic) mathematical computations.
 
 peer-review
 -----------
@@ -116,10 +115,10 @@ books
     computation/understanding-first, mathematics-second point of view.
     Uses python with pyMC for visualizing what's going on.
 
-
 operating systems
 -----------------
 
--	[Debian Science](https://wiki.debian.org/DebianScience): Debian
+-   [Debian Science](https://wiki.debian.org/DebianScience): Debian
+
     operating system has many science related packages for different
     scientific blends and tastes.
