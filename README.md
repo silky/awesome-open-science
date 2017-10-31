@@ -14,11 +14,11 @@ computation environments
     [Jupyter](https://jupyter.org/)): A browser-based notebook with
     support for code, rich text, mathematical expressions, inline plots
     and other rich media.
+-   [Maxima](http://maxima.sourceforge.net): A computer algebra system
+    developed in Lisp for (symbolic) mathematical computations.
 -   [Sage Math Cloud](http://cloud.sagemath.com/): Provides Sage,
     Python, and other environments for computing on the cloud; also
     provides terminal access and git commands for cloning repositories.
--   [Maxima](http://maxima.sourceforge.net): A computer algebra system
-    developed in Lisp for (symbolic) mathematical computations.
 
 peer-review
 -----------
@@ -62,8 +62,8 @@ reproducibility
     of links to various researchers reproducing particular papers.
 -   [Zenodo](https://zenodo.org/): Platform to host versions of code
     that can be cited; can be linked to GitHub.
--   [steps towards reproducible research](http://kbroman.org/steps2rr/): A
-    tutorial/best practices for making your research reproducible.
+-   [steps towards reproducible research](http://kbroman.org/steps2rr/):
+    A tutorial/best practices for making your research reproducible.
 
 project management
 ------------------
@@ -111,16 +111,16 @@ community wikis
 books
 -----
 
+-   [Opening Science. The Evolving Guide on How the Web is Changing
+    Research, Collaboration and Scholarly
+    Publishing](http://book.openingscience.org/): A CC-BY-NC book on the
+    backgrounds of, tools, tutorials and best practices for open science
+
 -   [Probabilistic Programming and Bayesian Methods for
     Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/):
     an intro to Bayesian methods and probabilistic programming from a
     computation/understanding-first, mathematics-second point of view.
     Uses python with pyMC for visualizing what's going on.
-
--   [Opening Science. The Evolving Guide on How the Web is Changing Research,
-    Collaboration and Scholarly Publishing](http://book.openingscience.org/):
-    A CC-BY-NC book on the backgrounds of, tools, tutorials and best practices
-    for open science
 
 operating systems
 -----------------
@@ -130,7 +130,10 @@ operating systems
     operating system has many science related packages for different
     scientific blends and tastes.
 
--   [Fedora Astronomy Spin](https://labs.fedoraproject.org/en/astronomy/): Fedora
+-   [Fedora Astronomy
+    Spin](https://labs.fedoraproject.org/en/astronomy/): Fedora
 
-    Fedora Astronomy brings a complete open source toolchain to both amateur   
+    Fedora Astronomy brings a complete open source toolchain to both
+    amateur\
     and professional astronomers.
+
