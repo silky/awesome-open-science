@@ -115,6 +115,11 @@ books
     computation/understanding-first, mathematics-second point of view.
     Uses python with pyMC for visualizing what's going on.
 
+-   [Opening Science. The Evolving Guide on How the Web is Changing Research,
+    Collaboration and Scholarly Publishing](http://book.openingscience.org/):
+    A CC-BY-NC book on the backgrounds of, tools, tutorials and best practices
+    for open science
+
 operating systems
 -----------------
 
