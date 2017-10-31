@@ -129,3 +129,8 @@ operating systems
 
     operating system has many science related packages for different
     scientific blends and tastes.
+
+-   [Fedora Astronomy Spin](https://labs.fedoraproject.org/en/astronomy/): Fedora
+
+    Fedora Astronomy brings a complete open source toolchain to both amateur   
+    and professional astronomers.
