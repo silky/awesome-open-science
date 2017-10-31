@@ -62,6 +62,8 @@ reproducibility
     of links to various researchers reproducing particular papers.
 -   [Zenodo](https://zenodo.org/): Platform to host versions of code
     that can be cited; can be linked to GitHub.
+-   [steps towards reproducible research](http://kbroman.org/steps2rr/): A
+    tutorial/best practices for making your research reproducible.
 
 project management
 ------------------
