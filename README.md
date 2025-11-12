@@ -72,9 +72,6 @@ project management
 -   [Open science framework](http://osf.io/): Collect together various
     sources (GitHub, DropBox, etc) into one spot.
 -   [Trello](https://trello.com/) and
-    [Libreboard](http://libreboard.com/) (open source self-hosted
-    alternative): Keep track of to-do items in various lists of lists;
-    keep track of figures, comments, questions, issues, etc.
 
 organisations
 -------------
